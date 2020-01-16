@@ -1,0 +1,950 @@
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [22/Nov/2019 09:31:44] "PUT /update_problem HTTP/1.1" 200 -
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [22/Nov/2019 09:41:07] "PUT /update_problem HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:11:43] "GET /get_problems?level=medium HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:12:16] "GET /get_problems?level=all HTTP/1.1" 200 -
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [22/Nov/2019 10:15:50] "GET /get_problems?level=all HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:17:13] "GET /get_problems HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:17:25] "GET /get_problems?level HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:17:31] "GET /get_problems?level=medium HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:17:47] "GET /get_problems?level=difficulet HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:17:52] "GET /get_problems?level=difficult HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:17:58] "GET /get_problems?level=all HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:19:22] "GET /get_problems?level=all HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:20:24] "GET /get_problems?level=all&level=all HTTP/1.1" 200 -
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [22/Nov/2019 10:24:27] "GET /get_problems?level=all HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:24:39] "GET /get_problems?level=medium HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 10:24:45] "GET /get_problems?level=all HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 12:10:16] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 12:40:36] "GET / HTTP/1.1" 200 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/main.py', reloading
+ * Restarting with stat
+  File "/home/cnadmin/skillz/skillsz/main.py", line 1
+    <<<<<<< HEAD
+     ^
+SyntaxError: invalid syntax
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [22/Nov/2019 12:51:44] "GET /get_problems?level=all HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 13:59:17] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 14:35:56] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 14:38:42] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 14:41:46] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 14:45:06] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 14:47:05] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 14:48:58] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 15:33:20] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 15:35:47] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 15:37:20] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 16:39:12] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 16:43:57] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 16:50:00] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 16:53:40] "GET /check_file_status HTTP/1.1" 200 -
+111.93.164.97 - - [22/Nov/2019 16:55:37] "GET /check_file_status HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 08:27:32] "GET /api_docs HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 08:27:32] "GET /favicon.ico HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 08:27:52] "GET /skillsz_api_docs HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 08:40:30] "GET /skillsz_api_docs HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 08:54:02] "GET /skillsz_api_docs HTTP/1.1" 200 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/main.py', reloading
+ * Restarting with stat
+  File "/home/cnadmin/skillz/skillsz/main.py", line 1
+    <<<<<<< HEAD
+     ^
+SyntaxError: invalid syntax
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [25/Nov/2019 10:00:26] "PUT /update_checkfile_recquired_packages HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/cnadmin/skillz/skillsz/main.py", line 591, in udpate_packages
+    required_pckgs_dict = eval(required_pckgs[0][0])
+TypeError: eval() arg 1 must be a string, bytes or code object
+111.93.164.97 - - [25/Nov/2019 10:00:51] "PUT /update_checkfile_recquired_packages HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/cnadmin/skillz/skillsz/main.py", line 591, in udpate_packages
+    required_pckgs_dict = eval(required_pckgs[0][0])
+TypeError: eval() arg 1 must be a string, bytes or code object
+ * Detected change in '/home/cnadmin/skillz/skillsz/main.py', reloading
+ * Restarting with stat
+  File "/home/cnadmin/skillz/skillsz/main.py", line 1
+    <<<<<<< HEAD
+     ^
+SyntaxError: invalid syntax
+  File "main.py", line 1
+    <<<<<<< HEAD
+     ^
+SyntaxError: invalid syntax
+  File "main.py", line 1
+    <<<<<<< HEAD
+     ^
+SyntaxError: invalid syntax
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [25/Nov/2019 10:19:48] "PUT /update_checkfile_recquired_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 10:21:36] "PUT /update_checkfile_recquired_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 10:22:13] "PUT /update_checkfile_recquired_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 10:25:54] "PUT /update_checkfile_recquired_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 10:26:21] "PUT /update_checkfile_recquired_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 10:27:13] "PUT /update_checkfile_recquired_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 10:27:55] "PUT /update_checkfile_recquired_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 10:28:15] "PUT /update_checkfile_recquired_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 10:28:47] "PUT /update_checkfile_recquired_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 10:29:07] "PUT /update_checkfile_recquired_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 10:29:20] "PUT /update_checkfile_recquired_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 11:10:06] "GET /skillz_api_docs HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 11:10:13] "GET /skillsz_api_docs HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 11:25:47] "POST /create_problem_id HTTP/1.1" 200 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+ * Detected change in '/home/cnadmin/skillz/skillsz/main.py', reloading
+ * Restarting with stat
+  File "/home/cnadmin/skillz/skillsz/main.py", line 1
+    <<<<<<< HEAD
+     ^
+SyntaxError: invalid syntax
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [25/Nov/2019 11:56:40] "GET /get_checkfile_required_packages?problemId=28972&language=Python HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 11:56:49] "GET /get_checkfile_required_packages?problemId=28972&language=Go HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 11:56:56] "GET /get_checkfile_required_packages?problemId=28972&language=GO HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 12:26:18] "GET /get_checkfile_required_packages?problemId=28972&language=Go HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 12:27:38] "GET /get_checkfile_required_packages?problemId=28972&language=Go HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 12:34:37] "PUT /update_checkfile_recquired_packages HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 12:35:29] "PUT /update_checkfile_recquired_packages HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 12:36:07] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 14:48:44] "GET /problem_widget HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 14:52:40] "GET /check_file_status HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 14:59:15] "GET /skillsz_api_docs HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:06:44] "POST /create_testcases HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:11:56] "POST /create_problem_id HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:12:45] "POST /create_testcases HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:26:05] "PUT /update_problem HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:30:08] "PUT /update_problem HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:31:41] "PUT /update_problem HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:33:08] "POST /create_problem_id HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:33:54] "POST /create_testcases HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:34:40] "PUT /update_problem HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:35:32] "POST /create_problem_id HTTP/1.1" 200 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [25/Nov/2019 15:38:16] "POST /create_testcases HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:38:54] "PUT /update_problem HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:40:27] "POST /create_problem_id HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:41:01] "POST /create_testcases HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:46:47] "PUT /update_problem HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 15:46:52] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Z\x10\x82Ù\x08\tF=é:ÖP\x92Ìè\x93Æb\x99©½ÓÊ\x89©ÄÈ2\x1bà\x1d$ ´ÄF\x1f\'0v³\x9cÖ¬ü\x8eZBÕ\x9bý\x96?üÏ\x99"Ë\x8fW\x89¤\x84¡Å\x00$\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+111.93.164.97 - - [25/Nov/2019 15:46:52] "  üZÙ	F=é:ÖPÌèÆb©½ÓÊ©ÄÈ2à$ ´ÄF'0v³Ö¬üZBÕý?üÏ"ËW¤¡Å $À+À/Ì©Ì¨À,À0À" HTTPStatus.BAD_REQUEST -
+111.93.164.97 - - [25/Nov/2019 15:46:57] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÿ%¸ð`\xadUG#\x16\x891k\x8e\x8dâ\x92Ý$\x9d\x98Eàb\x05E$©CåÖ')
+111.93.164.97 - - [25/Nov/2019 15:46:57] "  üÿ%¸ð`­UG#1kâÝ$EàbE$©CåÖ Y~6&3ÏòÂ-»H*¼½Zò7y~ÃçÓ¸ $À+À/Ì©Ì¨À,À0À" HTTPStatus.BAD_REQUEST -
+111.93.164.97 - - [25/Nov/2019 15:46:58] code 400, message Bad request version ('ùÃ')
+111.93.164.97 - - [25/Nov/2019 15:46:58] "  üÊG>j¼Þýe³åCsG>ØÅÄêKïÆÉÞ ùÃ" HTTPStatus.BAD_REQUEST -
+111.93.164.97 - - [25/Nov/2019 15:47:07] "GET /get_problems?level=Difficult HTTP/1.1" 200 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [25/Nov/2019 16:24:36] "PUT /update_problem HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:36:41] "GET /get_problems?level=Difficult HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:49:06] "GET /skillsz_api_docs HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/cnadmin/skillz/skillsz/main.py", line 92, in skillsz_api_docs
+    return render_template('skillz_doc.html')
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: skillz_doc.html
+111.93.164.97 - - [25/Nov/2019 16:49:06] "GET /skillsz_api_docs?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:49:06] "GET /skillsz_api_docs?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:49:06] "GET /skillsz_api_docs?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:49:06] "GET /skillsz_api_docs?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:49:06] "GET /skillsz_api_docs?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:49:15] "GET /skillsz_api_doc HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 16:49:15] "GET /favicon.ico HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 16:50:56] "GET /skillsz_api_docs HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/cnadmin/skillz/skillsz/main.py", line 92, in skillsz_api_docs
+    return render_template('skillz_doc.html')
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: skillz_doc.html
+111.93.164.97 - - [25/Nov/2019 16:50:56] "GET /skillsz_api_docs?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:50:56] "GET /skillsz_api_docs?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:50:56] "GET /skillsz_api_docs?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:50:56] "GET /skillsz_api_docs?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:50:56] "GET /skillsz_api_docs?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:50:56] "GET /skillsz_api_docs?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:51:59] "GET /skillsz_api_docs HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 16:52:32] "GET /skillsz_api_doc HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 16:52:42] "GET /skillz_api_doc HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 16:52:48] "GET /skillsz_api_doc HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 16:52:55] "GET /skillsz_api_doc HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 16:53:09] "GET /skillz_api_doc HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 16:53:15] "GET /skillsz_api_doc HTTP/1.1" 404 -
+111.93.164.97 - - [25/Nov/2019 16:53:19] "GET /skillsz_api_docs HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 17:59:15] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 18:03:33] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 18:12:11] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 18:23:57] "GET /get_problems?level=Easy HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 18:24:15] "GET /get_problems HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 18:24:29] "GET /get_problems?level=Easy HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 18:38:43] "GET /get_problems?level=Hard HTTP/1.1" 200 -
+111.93.164.97 - - [25/Nov/2019 18:38:53] "GET /get_problems?level=Medium HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 08:14:15] "GET /get_problems?level=Hard HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 08:14:15] "GET /favicon.ico HTTP/1.1" 404 -
+111.93.164.97 - - [26/Nov/2019 08:14:29] "GET /get_problems?level=Difficult HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 08:14:59] "GET /get_problems?level=medium HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 08:29:21] "DELETE /delete_checkfile_required_packages?problemId=28841&language=Go HTTP/1.1" 404 -
+111.93.164.97 - - [26/Nov/2019 08:33:42] "DELETE /delete_checkfile_required_packages?problemId=28841&language=Go HTTP/1.1" 404 -
+111.93.164.97 - - [26/Nov/2019 08:33:56] "GET /delete_checkfile_required_packages?problemId=28841&language=Go HTTP/1.1" 404 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [26/Nov/2019 09:05:02] "GET /skillsz_api_docs HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 09:05:26] "DELETE /delete_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 10:27:49] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 10:27:55] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 11:28:56] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 11:29:21] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 11:29:45] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 11:34:52] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 11:34:58] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 11:38:42] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 11:38:47] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 11:43:47] "GET /skillsz_api_docs HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 11:58:15] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 11:58:21] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 12:51:28] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 12:52:07] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 12:52:13] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 13:09:33] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 13:09:39] "PUT /update_testcase HTTP/1.1" 200 -
+<<<<<<< HEAD
+111.93.164.97 - - [26/Nov/2019 14:57:06] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 14:57:12] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 14:57:45] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 14:57:58] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 14:58:04] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 15:04:52] "GET /skillsz_api_docs HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 15:04:54] "GET /favicon.ico HTTP/1.1" 404 -
+111.93.164.97 - - [26/Nov/2019 15:11:04] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 15:11:10] "PUT /update_testcase HTTP/1.1" 200 -
+ * Serving Flask app "git_webhook_server" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [26/Nov/2019 15:24:18] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 15:28:26] "POST /get_github_notification HTTP/1.1" 200 -
+111.93.164.100 - - [26/Nov/2019 15:28:49] code 400, message Bad request syntax ('\x03\x03\x03\x03')
+111.93.164.100 - - [26/Nov/2019 15:28:49] "" HTTPStatus.BAD_REQUEST -
+111.93.164.97 - - [26/Nov/2019 15:35:11] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 15:35:18] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.100 - - [26/Nov/2019 15:37:31] "GET /get_github_notification HTTP/1.1" 405 -
+111.93.164.100 - - [26/Nov/2019 15:37:32] "GET /favicon.ico HTTP/1.1" 404 -
+111.93.164.97 - - [26/Nov/2019 15:37:46] "GET /skillsz_api_docs HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 15:38:00] "GET /skillsz_api_docs HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:01:05] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:01:12] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:10:03] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:10:14] "PUT /update_testcase HTTP/1.1" 200 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/git_webhook_server.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [26/Nov/2019 16:43:27] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:43:27] "GET /favicon.ico HTTP/1.1" 404 -
+111.93.164.97 - - [26/Nov/2019 16:43:59] "GET /get_github_notification HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:45:22] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:45:27] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:46:17] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:46:22] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:46:40] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:46:46] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:50:32] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:50:37] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:55:29] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 16:55:35] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 17:33:34] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 17:33:45] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 17:46:04] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 17:46:09] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 17:48:38] "PUT /update_checkfile_required_packages HTTP/1.1" 200 -
+111.93.164.97 - - [26/Nov/2019 17:48:44] "PUT /update_testcase HTTP/1.1" 200 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/git_webhook_server.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+=======
+>>>>>>> 6b5da97257a8a5ab36510d13fad65b4c101e8ed5
+  File "plot.py", line 46
+    "layout": go.Layout(title=f"Count of Error Code:200 of Each API", margin={"l": 300, "r": 300, },
+                                                                   ^
+SyntaxError: invalid syntax
+ * Serving Flask app "plot" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+ * Detected change in '/home/cnadmin/skillz/skillsz/plot.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+ * Serving Flask app "plot" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5002/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-component-suites/dash_renderer/react@16.v1_2_0m1574828363.8.6.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-component-suites/dash_renderer/prop-types@15.v1_2_0m1574828363.7.2.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-component-suites/dash_core_components/highlight.v1_5_1m1574828366.pack.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-component-suites/dash_renderer/polyfill@7.v1_2_0m1574828363.7.0.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-component-suites/dash_renderer/react-dom@16.v1_2_0m1574828363.8.6.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-component-suites/dash_html_components/dash_html_components.v1_0_2m1574828366.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-component-suites/dash_core_components/dash_core_components.v1_5_1m1574828366.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-component-suites/dash_renderer/dash_renderer.v1_2_0m1574828363.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_favicon.ico?v=1.6.1 HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-component-suites/dash_core_components/async~datepicker.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:29] "GET /_dash-component-suites/dash_core_components/async~plotlyjs.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:30] "GET /_dash-component-suites/dash_core_components/async~graph.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:54:31] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:58:43] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:58:43] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:58:43] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 09:58:44] "POST /_dash-update-component HTTP/1.1" 200 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/plot.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [27/Nov/2019 10:00:49] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:00:50] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:00:50] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:00:50] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:14:52] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:14:52] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:14:52] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:14:53] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:15:53] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:15:55] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:15:55] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:15:55] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:15:55] "GET /_favicon.ico?v=1.6.1 HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:15:55] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:19:57] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:19:57] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:19:57] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:19:58] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:20:02] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:20:04] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:21:29] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:21:29] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:21:29] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:21:30] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:01] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:01] "GET /_dash-component-suites/dash_renderer/react@16.v1_2_0m1574828363.8.6.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:01] "GET /_dash-component-suites/dash_renderer/prop-types@15.v1_2_0m1574828363.7.2.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:01] "GET /_dash-component-suites/dash_renderer/polyfill@7.v1_2_0m1574828363.7.0.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:01] "GET /_dash-component-suites/dash_renderer/react-dom@16.v1_2_0m1574828363.8.6.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:02] "GET /_dash-component-suites/dash_core_components/highlight.v1_5_1m1574828366.pack.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:02] "GET /_dash-component-suites/dash_html_components/dash_html_components.v1_0_2m1574828366.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:02] "GET /_dash-component-suites/dash_renderer/dash_renderer.v1_2_0m1574828363.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:02] "GET /_dash-component-suites/dash_core_components/dash_core_components.v1_5_1m1574828366.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:02] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:02] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:02] "GET /_favicon.ico?v=1.6.1 HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:02] "GET /_dash-component-suites/dash_core_components/async~datepicker.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:02] "GET /_dash-component-suites/dash_core_components/async~plotlyjs.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:03] "GET /_dash-component-suites/dash_core_components/async~graph.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:03] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:16] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:16] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:16] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:27:17] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-component-suites/dash_renderer/react@16.v1_2_0m1574828363.8.6.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-component-suites/dash_renderer/prop-types@15.v1_2_0m1574828363.7.2.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-component-suites/dash_renderer/polyfill@7.v1_2_0m1574828363.7.0.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-component-suites/dash_core_components/highlight.v1_5_1m1574828366.pack.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-component-suites/dash_renderer/react-dom@16.v1_2_0m1574828363.8.6.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-component-suites/dash_html_components/dash_html_components.v1_0_2m1574828366.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-component-suites/dash_renderer/dash_renderer.v1_2_0m1574828363.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-component-suites/dash_core_components/dash_core_components.v1_5_1m1574828366.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_favicon.ico?v=1.6.1 HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-component-suites/dash_core_components/async~datepicker.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:17] "GET /_dash-component-suites/dash_core_components/async~plotlyjs.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:18] "GET /_dash-component-suites/dash_core_components/async~graph.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:18] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 10:51:22] "POST /_dash-update-component HTTP/1.1" 200 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/log_analysis.py', reloading
+ * Restarting with stat
+/home/cnadmin/skillz/skillsz/log_analysis.py:89: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [27/Nov/2019 11:35:56] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:35:56] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:35:56] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:35:57] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:35:59] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:37] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:37] "GET /_dash-component-suites/dash_renderer/react@16.v1_2_0m1574828363.8.6.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:37] "GET /_dash-component-suites/dash_renderer/prop-types@15.v1_2_0m1574828363.7.2.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:37] "GET /_dash-component-suites/dash_renderer/polyfill@7.v1_2_0m1574828363.7.0.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:37] "GET /_dash-component-suites/dash_renderer/react-dom@16.v1_2_0m1574828363.8.6.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:37] "GET /_dash-component-suites/dash_core_components/highlight.v1_5_1m1574828366.pack.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:37] "GET /_dash-component-suites/dash_html_components/dash_html_components.v1_0_2m1574828366.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:37] "GET /_dash-component-suites/dash_core_components/dash_core_components.v1_5_1m1574828366.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:37] "GET /_dash-component-suites/dash_renderer/dash_renderer.v1_2_0m1574828363.min.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:38] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:38] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:38] "GET /_favicon.ico?v=1.6.1 HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:38] "GET /_dash-component-suites/dash_core_components/async~datepicker.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:38] "GET /_dash-component-suites/dash_core_components/async~plotlyjs.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:38] "GET /_dash-component-suites/dash_core_components/async~graph.v1_5_1m1573761749.js HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:39] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:43] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:44] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:46] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:49] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:51] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:53] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:37:54] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:38:02] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:38:04] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:38:20] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:40:00] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:40:00] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:40:00] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:40:01] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:40:04] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:43:06] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:43:12] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:43:14] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 11:47:51] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:13] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:13] "GET /_dash-layout HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:13] "GET /_dash-dependencies HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:13] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:16] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:28] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:34] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:35] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:35] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:37] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:40] "POST /_dash-update-component HTTP/1.1" 200 -
+111.93.164.97 - - [27/Nov/2019 12:46:46] "POST /_dash-update-component HTTP/1.1" 200 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/plot.py', reloading
+ * Restarting with stat
+/home/cnadmin/skillz/skillsz/log_analysis.py:89: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+Traceback (most recent call last):
+  File "main.py", line 3, in <module>
+    import flask
+ImportError: No module named flask
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [28/Nov/2019 09:32:45] "GET /api_performance HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 11:10:19] "PUT /update_testcase HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/cnadmin/skillz/skillsz/main.py", line 487, in update_testcase
+    cursor.execute("""update sphere_engine_testcase set {}=%s where problem_id=%s""".format(key_list_excl_id[i]),(data[key_list_excl_id[i]],data['id']))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/cursor.py", line 551, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/connection.py", line 490, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/connection.py", line 395, in _handle_result
+    raise errors.get_exception(packet)
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'id' in 'field list'
+111.93.164.97 - - [28/Nov/2019 11:10:45] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 11:10:47] "GET /favicon.ico HTTP/1.1" 404 -
+111.93.164.97 - - [28/Nov/2019 11:16:57] "PUT /update_testcase HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/cnadmin/skillz/skillsz/main.py", line 487, in update_testcase
+    cursor.execute("""update sphere_engine_testcase set {}=%s where problem_id=%s""".format(key_list_excl_id[i]),(data[key_list_excl_id[i]],data['id']))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/cursor.py", line 551, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/connection.py", line 490, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/connection.py", line 395, in _handle_result
+    raise errors.get_exception(packet)
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'id' in 'field list'
+111.93.164.97 - - [28/Nov/2019 11:17:36] "PUT /update_testcase HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/cnadmin/skillz/skillsz/main.py", line 487, in update_testcase
+    cursor.execute("""update sphere_engine_testcase set {}=%s where problem_id=%s""".format(key_list_excl_id[i]),(data[key_list_excl_id[i]],data['id']))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/cursor.py", line 551, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/connection.py", line 490, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/connection.py", line 395, in _handle_result
+    raise errors.get_exception(packet)
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'id' in 'field list'
+111.93.164.97 - - [28/Nov/2019 11:26:19] "PUT /update_testcase HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/cnadmin/skillz/skillsz/main.py", line 487, in update_testcase
+    cursor.execute("""update sphere_engine_testcase set {}=%s where problem_id=%s""".format(key_list_excl_id[i]),(data[key_list_excl_id[i]],data['id']))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/cursor.py", line 551, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/connection.py", line 490, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/mysql/connector/connection.py", line 395, in _handle_result
+    raise errors.get_exception(packet)
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'id' in 'field list'
+111.93.164.97 - - [28/Nov/2019 11:29:02] "PUT /update_testcase HTTP/1.1" 500 -
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [28/Nov/2019 11:31:26] "GET /update_testcase HTTP/1.1" 405 -
+111.93.164.97 - - [28/Nov/2019 11:31:26] "GET /favicon.ico HTTP/1.1" 404 -
+111.93.164.97 - - [28/Nov/2019 11:31:34] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 11:31:59] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 11:34:48] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 11:35:16] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 11:46:05] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 11:49:53] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 12:08:55] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 12:12:18] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 12:17:23] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 12:19:21] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 12:20:51] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 12:23:09] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 12:25:10] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 12:27:03] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 12:29:03] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 12:30:47] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 13:19:12] "GET /check_file_status HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 13:19:13] "GET /favicon.ico HTTP/1.1" 404 -
+111.93.164.97 - - [28/Nov/2019 15:03:18] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 15:05:37] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 15:05:56] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 15:07:05] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 15:08:11] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 15:10:34] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 15:11:59] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 15:13:05] "PUT /update_testcase HTTP/1.1" 200 -
+ * Serving Flask app "git_webhook_server" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [28/Nov/2019 15:49:34] "POST /test HTTP/1.1" 404 -
+111.93.164.97 - - [28/Nov/2019 15:49:41] "POST /test HTTP/1.1" 404 -
+ * Serving Flask app "git_webhook_server" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "git_webhook_server.py", line 28, in <module>
+    app.run(host = '0.0.0.0',debug=True,port=5001)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/home/cnadmin/skillz/aws_skillz/lib/python3.5/site-packages/werkzeug/serving.py", line 987, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+111.93.164.97 - - [28/Nov/2019 15:52:24] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 15:52:27] "GET / HTTP/1.1" 200 -
+ * Serving Flask app "git_webhook_server" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [28/Nov/2019 15:53:09] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 15:53:13] "POST /test HTTP/1.1" 404 -
+111.93.164.97 - - [28/Nov/2019 15:53:23] "POST /test HTTP/1.1" 404 -
+111.93.164.97 - - [28/Nov/2019 15:55:30] "POST /test HTTP/1.1" 404 -
+111.93.164.97 - - [28/Nov/2019 15:56:48] "POST /test HTTP/1.1" 404 -
+111.93.164.97 - - [28/Nov/2019 15:57:17] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 15:57:45] "POST /get_github_notification HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 15:57:55] "POST /test HTTP/1.1" 404 -
+111.93.164.97 - - [28/Nov/2019 15:58:04] "POST /test HTTP/1.1" 404 -
+ * Serving Flask app "git_webhook_server" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [28/Nov/2019 16:08:31] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 16:08:32] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 16:08:36] "POST /test HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 16:23:10] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 16:33:25] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 16:36:29] "GET /api_performance HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 16:36:30] "GET /static/images/icons/favicon.ico HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 16:36:41] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 16:41:31] "PUT /update_testcase HTTP/1.1" 200 -
+52.7.13.83 - - [28/Nov/2019 16:45:39] code 400, message Bad request syntax ('ÿôÿý\x06ÿôÿý\x06ÿôÿý\x06ÿôÿý\x06ÿôÿý\x06ÿôÿý\x06ÿôÿý\x06')
+52.7.13.83 - - [28/Nov/2019 16:45:39] "ÿôÿýÿôÿýÿôÿýÿôÿýÿôÿýÿôÿýÿôÿý" HTTPStatus.BAD_REQUEST -
+52.7.13.83 - - [28/Nov/2019 16:46:07] "POST /test HTTP/1.1" 200 -
+52.7.13.83 - - [28/Nov/2019 16:47:54] "POST /get_github_notification HTTP/1.1" 200 -
+52.7.13.83 - - [28/Nov/2019 16:48:21] "POST /get_github_notification HTTP/1.1" 200 -
+52.7.13.83 - - [28/Nov/2019 16:49:09] "POST /get_github_notification HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 16:53:11] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 17:02:36] "PUT /update_testcase HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 17:04:54] "PUT /update_testcase HTTP/1.1" 200 -
+52.7.13.83 - - [28/Nov/2019 17:09:24] "POST /get_github_notification HTTP/1.1" 200 -
+52.7.13.83 - - [28/Nov/2019 17:15:35] "POST /get_github_notification HTTP/1.1" 200 -
+52.7.13.83 - - [28/Nov/2019 17:21:48] "POST /get_github_notification HTTP/1.1" 200 -
+111.93.164.97 - - [28/Nov/2019 18:10:50] "GET /skillsz_api_docs HTTP/1.1" 200 -
+122.228.19.80 - - [29/Nov/2019 06:05:17] "GET / HTTP/1.1" 200 -
+122.228.19.80 - - [29/Nov/2019 06:05:36] code 400, message Bad request syntax ('JRMI\x00\x02K')
+122.228.19.80 - - [29/Nov/2019 06:05:36] "JRMI K" HTTPStatus.BAD_REQUEST -
+ * Detected change in '/home/cnadmin/skillz/skillsz/git_webhook_server.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+52.7.13.83 - - [29/Nov/2019 08:44:29] "POST /get_github_notification HTTP/1.1" 200 -
+111.93.164.97 - - [29/Nov/2019 08:45:28] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [29/Nov/2019 08:45:29] "GET /favicon.ico HTTP/1.1" 404 -
+111.93.164.97 - - [29/Nov/2019 08:45:52] "GET / HTTP/1.1" 200 -
+111.93.164.97 - - [29/Nov/2019 08:45:55] "GET /favicon.ico HTTP/1.1" 404 -
+66.102.6.75 - - [29/Nov/2019 08:48:56] "GET / HTTP/1.1" 200 -
+66.102.6.75 - - [29/Nov/2019 08:48:56] "GET /skillsz_api_docs HTTP/1.1" 200 -
+66.102.6.79 - - [29/Nov/2019 08:48:57] "GET /favicon.ico HTTP/1.1" 404 -
+52.7.13.83 - - [29/Nov/2019 09:42:04] "POST /get_github_notification HTTP/1.1" 200 -
+ * Detected change in '/home/cnadmin/skillz/skillsz/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 136-449-394
+111.93.164.97 - - [29/Nov/2019 09:46:25] "POST /get_submissionId HTTP/1.1" 400 -
+45.148.10.13 - - [29/Nov/2019 10:26:27] code 400, message Bad request version ('À\x14À')
+45.148.10.13 - - [29/Nov/2019 10:26:27] " u  qlÏó¿Þ¤²îWÊë"qraÆv´ÆÇØuìµÜyÏ|  À/À+ÀÀÀÀ	ÀÀ" HTTPStatus.BAD_REQUEST -
+111.93.164.97 - - [29/Nov/2019 11:12:51] "GET /favicon.ico HTTP/1.1" 404 -
+111.93.164.97 - - [29/Nov/2019 12:32:49] "PUT /update_testcase HTTP/1.1" 200 -
+66.102.6.79 - - [29/Nov/2019 12:54:00] "GET /favicon.ico HTTP/1.1" 404 -
+66.102.6.75 - - [29/Nov/2019 12:54:02] "GET /get_problems?level=medium HTTP/1.1" 200 -
